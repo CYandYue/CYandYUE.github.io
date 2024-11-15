@@ -226,7 +226,7 @@ color:
 # 主题字体配置
 # Font
 font:
-  font_size: 12px
+  font_size: 14px
   font_family:
   letter_spacing: 0.02em
   code_font_size: 85%
