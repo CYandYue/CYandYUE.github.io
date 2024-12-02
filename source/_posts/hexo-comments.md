@@ -1,5 +1,6 @@
 ---
 title: Hexo评论功能插件Valine
+author: CYandYUE
 date: 2024-12-02 23:17:51
 tags:
 - 环境配置

@@ -1,5 +1,6 @@
 ---
 title: Manjaro部署 Hexo+Fluid+Github Pages
+author: CYandYUE
 date: 2024-11-15 18:03:45
 tags:
 - Manjaro
