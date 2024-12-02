@@ -814,19 +814,20 @@ gitalk:
 valine:
   appId: ygT4spndVH5gdyAHzS8SAlwK-gzGzoHsz
   appKey: 52iUiwsnHGyURRaKLyuli5G1
+  gravatar: ''
   path: window.location.pathname
   placeholder:
   avatar: 'retro'
-  meta: ['nick', 'mail', 'link']
-  requiredFields: []
+  meta: ['nick', 'mail']
+  requiredFields: ['nick', 'mail']
   pageSize: 10
   lang: 'zh-CN'
-  highlight: false
-  recordIP: false
+  highlight: true
+  recordIP: true
   serverURLs: ''
   emojiCDN:
   emojiMaps:
-  enableQQ: false
+  enableQQ: true
   visitor: true
 
 # Waline

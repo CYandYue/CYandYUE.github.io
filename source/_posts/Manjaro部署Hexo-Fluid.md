@@ -260,3 +260,6 @@ git push -u origin master
 查看 username.github.io的Action页面，可看到github pending的进程，等待完成即可
 
 完成后会得到网址 https://\<your github username\>.github.io
+
+## 6. 链接
+[Hexo文档](https://fluid-dev.github.io/hexo-fluid-docs/guide/)
