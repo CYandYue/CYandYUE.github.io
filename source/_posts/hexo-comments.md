@@ -2,13 +2,14 @@
 title: Hexo评论功能插件Valine
 date: 2024-12-02 23:17:51
 tags:
-- Manjaro
 - 环境配置
+- 博客
 
 index_img: /index_img/2_valine.png
 
 categories:
 - 环境配置
+- 博客
 ---
 
 今天决定给自己的博客弄个评论功能，浏览了一下Hexo Fluid支持的评论插件，感觉Valine是比较好的选择
@@ -105,6 +106,9 @@ Error: Forbidden writing by object‘s ACL.
 ```
 可以在对应评论的“ACL”处将write权限开放，再进行操作
 
-## 4. 参考文档
+## 4. 链接
+### 参考文档
 - [Valine官方文档](https://valine.js.org/)
 - [Csdn博客](https://blog.csdn.net/raspi_fans/article/details/134102368)
+### 网址汇总
+- [LeanCloud](https://console.leancloud.cn/apps)
