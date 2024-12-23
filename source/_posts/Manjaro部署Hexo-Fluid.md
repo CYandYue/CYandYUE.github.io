@@ -114,12 +114,12 @@ marked:
 ```bash
 hexo new post <post_name>
 ```
-出现 source/_posts/<post_name>.md 与 source/_posts/<post_name>/
+出现 source/_posts/post_name.md 与 source/_posts/post_name/
 
 前者中写文章的markdown，后者放图片资源即可
 
 ### Post图片引用
-例如图片路径为 source/_posts/<post_name>/img.jpg
+例如图片路径为 source/_posts/post_name/img.jpg
 
 在正文中引用如下
 ```yaml
