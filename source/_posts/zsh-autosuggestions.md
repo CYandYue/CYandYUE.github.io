@@ -6,10 +6,10 @@ index_img: /index_img/7_zsh.png
 tags:
 - 环境配置
 - Shell
+- Linux
 categories:
 - 环境配置
 - Shell
-- Linux
 ---
 
 本来大二的时候装完[oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)，给自己的zsh美化了一下之后，想再装一个[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions?tab=readme-ov-file)自动补全
