@@ -63,6 +63,7 @@ $ cdl ~/scripts
 my_functions.sh
 
 $ pwd
+# output
 ~/scripts
 ```
 
