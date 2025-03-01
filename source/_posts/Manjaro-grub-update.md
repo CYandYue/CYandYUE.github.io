@@ -5,10 +5,10 @@ index_img: /index_img/13_grub.png
 date: 2025-03-02 00:28:22
 tags:
 - Linux
-- shell
+- Shell
 categories:
 - Linux
-- shell
+- Shell
 ---
 
 ## 1. Grub update in Arch Linux
