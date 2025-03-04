@@ -4,7 +4,11 @@ author: CYandYUE
 index_img: /index_img/15_gitconfig.png
 date: 2025-03-04 23:54:38
 tags:
+- Shell
+- Linux
 categories:
+- 环境配置
+- Shell
 ---
 ## 1. 问题描述
 最近项目中涉及很多比较大的仓库的拉取，同时我的网络又不够稳定
