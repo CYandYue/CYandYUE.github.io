@@ -5,10 +5,10 @@ date: 2024-12-08 07:13:42
 index_img: /index_img/3_notion.png
 tags:
 - Manjaro
-- 脚本
+- Script
 
 categories:
-- 脚本
+- Script
 ---
 
 Notion是挺好用的笔记软件，但是其不支持 Manjaro

@@ -4,10 +4,9 @@ author: CYandYUE
 index_img:
 date: 2025-03-04 23:29:32
 tags:
-- Linux
 - DEBUG
+- Manjaro
 categories:
-- Linux
 - DEBUG
 ---
 

@@ -4,11 +4,11 @@ author: CYandYUE
 index_img: /index_img/14_cuda.png
 date: 2025-03-02 00:46:35
 tags:
-- 环境配置
+- Env
 - Cuda
 categories:
-- 环境配置
-- Conda
+- Env
+- Cuda
 ---
 
 ## 1. 问题描述

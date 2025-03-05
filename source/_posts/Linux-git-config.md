@@ -4,10 +4,10 @@ author: CYandYUE
 index_img: /index_img/15_gitconfig.png
 date: 2025-03-04 23:54:38
 tags:
+- Env
 - Shell
-- Linux
 categories:
-- 环境配置
+- Env
 - Shell
 ---
 ## 1. 问题描述

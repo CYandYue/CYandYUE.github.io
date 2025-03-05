@@ -5,9 +5,8 @@ date: 2025-1-18 03:01:54
 index_img: /index_img/10_dotfiles.png
 tags:
 - Shell
-- Linux
 categories:
-- 环境配置
+- Env
 - Shell
 ---
 

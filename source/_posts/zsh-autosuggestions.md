@@ -4,11 +4,11 @@ author: CYandYUE
 date: 2024-12-27 05:29:32
 index_img: /index_img/7_zsh.png
 tags:
-- 环境配置
+- Env
 - Shell
 - Linux
 categories:
-- 环境配置
+- Env
 - Shell
 ---
 

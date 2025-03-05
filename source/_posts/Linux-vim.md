@@ -4,11 +4,10 @@ author: CYandYUE
 date: 2024-12-30 03:01:54
 index_img: /index_img/9_vim.png
 tags:
-- 环境配置
+- Env
 - Shell
-- Linux
 categories:
-- 环境配置
+- Env
 - Shell
 ---
 

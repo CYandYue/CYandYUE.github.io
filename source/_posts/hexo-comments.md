@@ -2,15 +2,13 @@
 title: Hexo评论功能插件Valine
 author: CYandYUE
 date: 2024-12-02 23:17:51
-tags:
-- 环境配置
-- 博客
-
 index_img: /index_img/2_valine.png
-
+tags:
+- Env
+- Blog
 categories:
-- 环境配置
-- 博客
+- Env
+- Blog
 ---
 
 今天决定给自己的博客弄个评论功能，浏览了一下Hexo Fluid支持的评论插件，感觉Valine是比较好的选择

@@ -4,10 +4,10 @@ author: CYandYUE
 index_img: /index_img/16_ubuntu_zotero_notion.png
 date: 2025-03-05 22:39:52
 tags:
-- 环境配置
+- Env
 - Ubuntu
 categories:
-- 环境配置
+- Env
 - Ubuntu
 ---
 

@@ -4,14 +4,14 @@ author: CYandYUE
 date: 2024-11-15 18:03:45
 tags:
 - Manjaro
-- 环境配置
-- 博客
+- Env
+- Blog
 
 index_img: /index_img/1_hexo.png
 
 categories:
-- 环境配置
-- 博客
+- Env
+- Blog
 ---
 
 记录一下在manjaro上部署Hexo，并上传到github pages的过程
