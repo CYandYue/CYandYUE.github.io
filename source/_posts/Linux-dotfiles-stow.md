@@ -4,6 +4,7 @@ author: CYandYUE
 date: 2025-1-18 03:01:54
 index_img: /index_img/10_dotfiles.png
 tags:
+- Env
 - Shell
 categories:
 - Env
