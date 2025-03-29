@@ -1,5 +1,5 @@
 ---
-title: Github-pages
+title: 创建多个Github pages
 author: CYandYUE
 index_img: /index_img/18_github_pages.png
 date: 2025-03-29 22:01:39
@@ -11,7 +11,7 @@ categories:
 ## 1. 问题描述
 前段时间用github pages做了一个个人博客
 
-详情可见 [这篇]()
+详情可见 [这篇](https://cy.terase.cn/2024/11/15/Manjaro%E9%83%A8%E7%BD%B2Hexo-Fluid/)
 
 因为用的仓库是和git用户名重名的，当时以为github pages只能有一个
 
@@ -26,7 +26,7 @@ categories:
 在本地仓库关联远程一下
 
 ```bash
-$ git remote add origin https://github.com/CYandYue/HomePage.git
+$ git remote add origin https://github.com/xxxxxx/HomePage.git
 ```
 
 ###  2.2 开启Github pages
