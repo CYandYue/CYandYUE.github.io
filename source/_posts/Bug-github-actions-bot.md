@@ -1,5 +1,5 @@
 ---
-title: Bug-github-actions-bot
+title: Permission to xxx denied to github-actions[bot]
 author: CYandYUE
 index_img:
 date: 2025-03-30 23:01:49
