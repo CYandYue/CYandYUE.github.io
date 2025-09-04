@@ -1,5 +1,5 @@
 ---
-title: Blog迁移
+title: Hexo Blog 博客迁移
 author: CYandYUE
 index_img: /index_img/21_hexo_migration.png
 date: 2025-09-04 14:24:06
