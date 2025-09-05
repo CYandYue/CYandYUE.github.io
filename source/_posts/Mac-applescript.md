@@ -28,7 +28,7 @@ categories:
 在左上角搜索run applescript，点击Run Applescript
 ![Run Applescript](Run_Applescript.png)
 
-编写script
+编写script，记得把右上角的input改成None
 ![write script](script.png)
 
 按下command+s保存action，名字为Quick Open Terminal
