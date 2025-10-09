@@ -1,5 +1,5 @@
 ---
-title: Mac-ppt-iguana
+title: Mac在PowerPoint里安装IguanaTex实现latex插入
 author: CYandYUE
 index_img: /index_img/25_iguana.png
 date: 2025-10-09 14:23:47
