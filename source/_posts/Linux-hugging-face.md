@@ -2,7 +2,7 @@
 title: Linux-hugging-face
 author: CYandYUE
 index_img: /index_img/27_huggingface.png
-date: 2025-3-10 19:40:41
+date: 2025-9-10 19:40:41
 tags:
 - Linux
 categories:
@@ -26,7 +26,11 @@ huggingface-cli login
 ```
 下载
 ```bash
-huggingface-cli download zai-org/cogvlm2-llama3-chat-19B --local-dir /your/target/path
+huggingface-cli download /web/target/name --local-dir /your/target/path
+```
+如果是数据集而非模型，需要指定一下（不加该参数则默认为搜索模型文件）
+```bash
+huggingface-cli download /web/target/name --repo-type dataset --local-dir /your/target/path
 ```
 
 ## 3. script download
