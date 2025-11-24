@@ -1,5 +1,5 @@
 ---
-title: Linux终端复用器Screen的主题配置
+title: Linux终端复用器Screen的主题配置.screenrc
 author: CYandYUE
 index_img: /index_img/29_screen_theme.jpg
 date: 2025-11-21 23:34:39
