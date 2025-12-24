@@ -40,7 +40,22 @@ npm是 Node Package Manager，生态的包管理器（npm install）
 ## 2. Command lines
 nvm可以帮你管理node的版本
 ### 2.1 NVM
-查看和安装
+mac安装nvm（自带node）
+
+如果没安装brew，可以先装一下：
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+然后用brew安装nvm
+```bash
+brew upgrade
+brew install nvm
+echo 'export NVM_DIR="$HOME/.nvm"' >> ~/.zshrc
+echo '[ -s "$(brew --prefix nvm)/nvm.sh" ] && \. "$(brew --prefix nvm)/nvm.sh"' >> ~/.zshrc
+echo '[ -s "$(brew --prefix nvm)/etc/bash_completion.d/nvm" ] && \. "$(brew --prefix nvm)/etc/bash_completion.d/nvm"' >> ~/.zshrc
+source ~/.zshrc
+```
+nvm查看和安装不同版本node
 ```bash
 nvm --version
 nvm ls                # 本机已安装版本
