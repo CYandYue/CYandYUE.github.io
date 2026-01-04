@@ -1,7 +1,7 @@
 ---
 title: 用ZeroOmega在多个proxy中自动切换
 author: CYandYUE
-index_img: /index_img/
+index_img: /index_img/33_zero_omega.png
 date: 2026-01-04 18:18:33
 tags:
 - Web
